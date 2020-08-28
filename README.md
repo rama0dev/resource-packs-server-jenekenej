@@ -13,4 +13,4 @@
 </div>
 </div>
 <h2>Monarchy RP:</h2>
-<p><strong>Основной ресурс-пак: <a href="https://github.com/rama0dev/resource-packs-server-jenekenej/raw/master/MonarchyRP1(2.0).zip">*Клик*</a></strong></p>
+<p><strong>Основной ресурс-пак: <a title="SHA1: 1fbfdf04cfdd4765a94e3a6a4be0e01cbdbf6552" href="https://github.com/rama0dev/resource-packs-server-jenekenej/raw/master/MonarchyRP1(2.0).zip">*Клик*</a></strong></p>
