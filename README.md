@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Ресурс паки севреров тупа Женька!</h1>
+<h1 style="text-align: center;">Ресурс паки серверов тупа Женька!</h1>
 <blockquote>
 <p style="text-align: center;">Для упрощения&nbsp; поиска мужду файлов мы сделали снизу список</p>
 </blockquote>
