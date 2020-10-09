@@ -14,3 +14,6 @@
 </div>
 <h2>Monarchy RP:</h2>
 <p><strong>Основной ресурс-пак: <a title="SHA1: 1fbfdf04cfdd4765a94e3a6a4be0e01cbdbf6552" href="https://github.com/rama0dev/resource-packs-server-jenekenej/raw/master/MonarchyRP1(2.0).zip">*Клик*</a></strong></p>
+<h2>Among:</h2>
+<p><strong>Основной ресурс-пак: <a title="SHA1: " href="https://cdn.glitch.com/a89ac72a-ac4e-401e-8b13-0a0977252ff0%2FRP%20Among%20Us%20v1.1.rar?v=1602248287789">*Клик*</a></strong></p>
+
