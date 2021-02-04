@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Ресурс паки серверов тупа Женька!</h1>
 <blockquote>
-<p style="text-align: center;">Для упрощения&nbsp; поиска мужду файлов мы сделали снизу список</p>
+<p style="text-align: center;">Для упрощения&nbsp;поиска мужду файлов мы сделали снизу список</p>
 </blockquote>
 <p>&nbsp;</p>
 <h2>JS 1:</h2>
