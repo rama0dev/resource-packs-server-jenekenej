@@ -18,6 +18,8 @@
 <p><strong>Основной ресурс-пак: <a title="SHA1: " href="https://cdn.glitch.com/a89ac72a-ac4e-401e-8b13-0a0977252ff0%2FRP%20Among%20Us%20v1.1.rar?v=1602248287789">*Клик*</a></strong></p>
 
 <h2>TJS 1:</h2>
-<p><strong>Основной ресурс-пак: <a title="SHA1: d88a2bc3be5f57b0dca5f0cf58d8a0f7e13983be" href="https://github.com/rama0dev/resource-packs-server-jenekenej/raw/master/tjs1.zip">*Клик*</a></strong></p>
+<p><strong>PC: <a title="SHA1: d88a2bc3be5f57b0dca5f0cf58d8a0f7e13983be" href="https://github.com/rama0dev/resource-packs-server-jenekenej/raw/master/tjs1.zip">*Клик*</a></strong></p>
+<p><strong>BEDROCK: <a title="SHA1: de837e055dd3b00c69dd2d5edd2b13c703d9fdcd" href="https://github.com/rama0dev/resource-packs-server-jenekenej/blob/master/tjs1_bedrock.zip">*Клик*</a></strong></p>
+
 
 
